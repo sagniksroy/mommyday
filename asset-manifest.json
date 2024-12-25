@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mommyday/static/css/main.39710603.css",
+    "main.js": "/mommyday/static/js/main.ab0cf4b5.js",
+    "static/js/488.b1db9730.chunk.js": "/mommyday/static/js/488.b1db9730.chunk.js",
+    "static/media/1000086436.png": "/mommyday/static/media/1000086436.e39dcb6969939c17a917.png",
+    "static/media/im.jpg": "/mommyday/static/media/im.f45c51ce0bed1fe6de39.jpg",
+    "index.html": "/mommyday/index.html",
+    "main.39710603.css.map": "/mommyday/static/css/main.39710603.css.map",
+    "main.ab0cf4b5.js.map": "/mommyday/static/js/main.ab0cf4b5.js.map",
+    "488.b1db9730.chunk.js.map": "/mommyday/static/js/488.b1db9730.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39710603.css",
+    "static/js/main.ab0cf4b5.js"
+  ]
+}
